@@ -29,7 +29,7 @@ interests:
 education:
   courses:
   - course: PhD in Neuroscience
-    institution: University of Victoria
+    institution: University of Victoria, Division of Medical Sciences
     year: 2015 - 2020
   - course: Doctor of Medicine
     institution: Universidad del Valle, School of Medicine
@@ -59,7 +59,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: files/juansanar_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
