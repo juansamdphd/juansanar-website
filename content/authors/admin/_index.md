@@ -29,10 +29,10 @@ education:
   courses:
   - course: PhD in Neuroscience
     institution: University of Victoria
-    year: 2020
+    year: 2015 - 2020
   - course: Doctor of Medicine
-    institution: Universidad del Valle
-    year: 2014
+    institution: Universidad del Valle, School of Medicine
+    year: 2007 - 2014
   
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
