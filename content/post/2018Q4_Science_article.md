@@ -2,6 +2,7 @@
 title =  "Facial nerve regeneration using olfactory stem cells and hydrogels"
 author = ["Juan C. Sanchez-Arias"]
 date = 2018-12-01T00:00:00
+lastmod = 2018-12-01T00:00:00
 draft = false
 tags = ["BC Reg Med"]
 summary =  "A regenerative medicine piece for the BC Regenerative Medicine Initiative Quarterly Newsletter"

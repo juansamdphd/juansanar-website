@@ -2,7 +2,7 @@
 title = "Mini guide to the Computational Olympus: Part I"
 
 date = 2020-04-12T00:00:00
-#lastmod = 2018-04-20T00:00:00
+lastmod = 2020-04-12T00:00:00
 draft = false
 
 authors = ["Juan C. Sanchez-Arias"]

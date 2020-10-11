@@ -2,7 +2,7 @@
 title = "Standardized Dendritic Spine Characterization to Improve Reproducibility in Disease Models"
 
 date = 2019-12-05T00:00:00
-#lastmod = 2018-04-20T00:00:00
+lastmod = 2019-12-05T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

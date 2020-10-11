@@ -2,7 +2,7 @@
 title = "Wondering about which fluorescent protein to choose for your next experiment? Check out this amazing thread! #AcademicTwitter"
 
 date = 2019-09-12T00:00:00
-#lastmod = 2018-04-20T00:00:00
+lastmod = 2019-09-12T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
