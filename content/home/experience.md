@@ -74,5 +74,5 @@ date_format = "Jan 2006"
   * Discussing and reviewing new evidence on cerebral cortex cytoarchitectonics
   * Performing immunohistochemistry on rat brain slices from a model of severe traumatic brain injury
   * Fluorescence confocal microscopy
- 
+ """
 +++
