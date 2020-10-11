@@ -24,6 +24,7 @@ interests:
 - Neuroscience
 - Neurological sciences
 - Translational research
+- Social justice in academia
 
 education:
   courses:
