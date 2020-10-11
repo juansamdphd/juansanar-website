@@ -57,9 +57,10 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/JuanSA_CV.pdf
+
+- icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
@@ -74,6 +75,6 @@ highlight_name: false
 # - Visitors
 ---
 
-I am a _Postdocotral Fellow_ at the University of Victoria. My research in the Swayne Lab focuses on investigating the role of the channel-forming protein pannexin 1 (PANX1) in the regulation of nerve cell excitatory connections (known as dendritic spines) using confocal and super-resolution microscopy in fixed and living neurons. My research interests include dendritic spine plasticity, synapse and neuronal network formation, endogenous repair mechanisms, and applying data science principles to cell biology. I also team up with other members of the Swayne Lab that require microscopy, image analysis pipelines, and statistical analysis support.
+I am a _Postdoctoral Fellow_ at the University of Victoria. My research in the Swayne Lab focuses on investigating the role of the channel-forming protein pannexin 1 (PANX1) in the regulation of nerve cell excitatory connections (known as dendritic spines) using confocal and super-resolution microscopy in fixed and living neurons. My research interests include dendritic spine plasticity, synapse and neuronal network formation, endogenous repair mechanisms, and applying data science principles to cell biology. I also team up with other members of the Swayne Lab that require microscopy, image analysis pipelines, and statistical analysis support.
 
 I am passionate about bridging basic science and medicine. I am a firm believer that strong basic science foundations during medical training are key factors in the formation of newer generations of medical professionals. My goal is to become a physician/scientist carrying on clinical-informed basic science to understand the molecular substrates of neuronal network dysfunction in the injured nervous system. 
