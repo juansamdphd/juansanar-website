@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:juansa@uvic.ca".
+  link: mailto:juansa@uvic.ca  # For a direct email link, use "mailto:juansa@uvic.ca".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/juan_sanar
