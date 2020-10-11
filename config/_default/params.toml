@@ -100,7 +100,7 @@ address = {street = "3800 Finnerty Road, University of Victoria", city = "Victor
 coordinates = {latitude = "48.461717", longitude = "-123.312511"}
 
 # Directions for visitors to locate you.
-#directions = "Medical Sciences Building, Room 249"
+directions = "Medical Sciences Building, Room 249"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
