@@ -21,6 +21,12 @@ subtitle = ""
   description = "90%"
 
 [[feature]]
+  icon = "disease"
+  icon_pack = "fas"
+  name = "Cell culture"
+  description = "90%"
+
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
