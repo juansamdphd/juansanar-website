@@ -16,7 +16,7 @@ subtitle = ""
 
 [[feature]]
   icon = "microscope"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Microscopy"
   description = "90%"
 
