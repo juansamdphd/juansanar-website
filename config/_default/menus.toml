@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Projects"
-  identifier = "projects"
+  identifier = "project"
   url = "#projects"
   weight = 40
 
@@ -23,7 +23,7 @@
 [[main]]
   name = "BrainBeez"
   url = "/projects/brain_beez_game"
-  parent = "projects"
+  parent = "project"
   weight = 1
 
 [[main]]
