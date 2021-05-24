@@ -16,7 +16,7 @@
 [[main]]
   name = "Projects"
   identifier = "projects"
-  url = "#projects"
+  url = "#project"
   weight = 40
 
 # BrainBeez Game with https://trinket.io
