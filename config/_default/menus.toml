@@ -14,9 +14,16 @@
   weight = 20
 
 [[main]]
-  name = "BrainBeez Game"
+  name = "Projects"
   url = "#projects"
   weight = 40
+
+# BrainBeez Game with https://trinket.io
+[[main]]
+  name = "BrainBeez"
+  url = "#brain_beez"
+  parent = "#projects"
+  weight = 1
 
 [[main]]
   name = "Publications"
@@ -34,9 +41,3 @@
   name = "CV"
   url = "files/juansanar_cv.pdf"
   weight = 60
-
-# BrainBeez Game with https://trinket.io
-#[[main]]
-#  name = "BrainBeez"
-#  url = "#brain_beez"
-#  weight = 60
