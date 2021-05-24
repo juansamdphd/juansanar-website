@@ -21,4 +21,4 @@ BrainBeez is a sinple text-based game to test and practice your neuroscience kno
 
 The trinket app below is a test. I will update it with the functional python program once I'm finished with the project! Thank you for your patience.
 
-<iframe src="https://trinket.io/embed/python3/6205672a28?outputOnly=true&runOption=run" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python3/a1cf7bd6d9?outputOnly=true&runOption=run" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
