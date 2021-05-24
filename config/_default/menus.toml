@@ -23,7 +23,7 @@
 [[main]]
   name = "BrainBeez"
   url = "/projects/brain_beez_game"
-  parent = "project"
+  parent = "projects"
   weight = 1
 
 [[main]]
