@@ -16,13 +16,13 @@
 [[main]]
   name = "Projects"
   identifier = "projects"
-  url = "#project"
+  url = "#projects"
   weight = 40
 
 # BrainBeez Game with https://trinket.io
 [[main]]
   name = "BrainBeez"
-  url = "/project/brain_beez_game"
+  url = "/projects/brain_beez_game"
   parent = "projects"
   weight = 1
 
