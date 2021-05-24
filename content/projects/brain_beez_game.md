@@ -16,7 +16,7 @@ caption = "International Brain Bee logo"
 
 +++
 
-### What is BrinBeez?
+### What is BrainBeez?
 BrainBeez is a sinple text-based game to test and practice your neuroscience knowledge. Its target audience is high school students, but anyone is welcomed to join and try it out. BrainNezz is my *Final Project* for [CodeinPlace2021](https://codeinplace.stanford.edu/). The source code is under a GPL license and you are more thn welcomed to check it out and let me know how can I improve it (I'm a python newbie). The source code can be found at my [GitHub repo](https://github.com/juansamdphd/brain_bee_game/).
 
 The trinket app below is a test. I will update it with the functional python program once I'm finished with the project! Thank you for your patience.
