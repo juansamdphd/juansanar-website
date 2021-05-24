@@ -22,7 +22,7 @@
 # BrainBeez Game with https://trinket.io
 [[main]]
   name = "BrainBeez"
-  url = "/projects/brain_beez_game"
+  url = "/project/brain_beez_game"
   parent = "projects"
   weight = 1
 
