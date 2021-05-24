@@ -1,4 +1,4 @@
-`+++
++++
 title = "BrainBeez Game - a text-based game to practice your neuroscience knowledge"
 
 date = 2021-05-23T00:00:00
@@ -25,4 +25,3 @@ BrainBeez is a sinple text-based game to test and practice your neuroscience kno
 The trinket app below is a test. I will update it with the functional python program once I'm finished with the project! Thank you for your patience.
 
 <iframe src="https://trinket.io/embed/python3/cc0aa6b6ef?outputOnly=true&runOption=console" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-``

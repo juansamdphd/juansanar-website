@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: BrainBeez Game
 
 # View.
 #   1 = List
