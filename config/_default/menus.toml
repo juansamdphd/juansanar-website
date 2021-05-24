@@ -14,29 +14,29 @@
   weight = 20
 
 [[main]]
-  name = "Projects"
+  name = "BrainBeez Game"
   url = "#projects"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "Publications"
   url = "#featured"
-  weight = 40
+  weight = 30
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 70
+  weight = 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
   name = "CV"
   url = "files/juansanar_cv.pdf"
-  weight = 80
+  weight = 60
 
 # BrainBeez Game with https://trinket.io
-[[main]]
-  name = "BrainBeez"
-  url = "#brain_beez"
-  weight = 60
+#[[main]]
+#  name = "BrainBeez"
+#  url = "#brain_beez"
+#  weight = 60
