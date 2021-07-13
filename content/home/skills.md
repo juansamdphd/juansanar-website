@@ -36,13 +36,13 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "45%"
+  description = "40%"
 
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "95%"  
+  description = "85%"  
   
 [[feature]]
   icon = "camera-retro"

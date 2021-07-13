@@ -51,7 +51,7 @@ social:
   link: https://scholar.google.ca/citations?hl=en&user=2hJ3XvwAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/juansamdphd
+  link: https://github.com/juansanar
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/juancsanchezarias/
